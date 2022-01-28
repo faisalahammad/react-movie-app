@@ -1,5 +1,5 @@
 import React from 'react';
-import SearchMovies from './SearchMovies/SearchMovies';
+import SearchMovies from './components/SearchMovies/SearchMovies';
 import './style.css';
 
 function App() {
